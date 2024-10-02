@@ -43,6 +43,8 @@ flutter:
         sharedDarwinSource: true
       windows:
         ffiPlugin: true
+      elinux:
+        ffiPlugin: true
 
 # dart run ffigen
 ffigen:
